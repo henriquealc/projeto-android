@@ -65,7 +65,7 @@ header > p{
     padding-left: 10px; /*Feito para quando ele não bater nas bordas quando a tela diminuir*/
     padding-right: 10px; 
     margin: auto; /*Centraliza o parágrafo pois ele vira um bloco ao usar o max-width*/
-    margin-bottom: 20px; /*Afasta o parágrafo um pouco do menu*/
+    padding-bottom: 30px; /*Afasta o parágrafo um pouco do menu*/
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 
     
